@@ -1,0 +1,7 @@
+D:\Lahulesh_Chourasiya\First_Techical_Question(IMPORTANT)\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe.config
+D:\Lahulesh_Chourasiya\First_Techical_Question(IMPORTANT)\Assignment_1\Assignment_1\bin\Debug\Assignment_1.exe
+D:\Lahulesh_Chourasiya\First_Techical_Question(IMPORTANT)\Assignment_1\Assignment_1\bin\Debug\Assignment_1.pdb
+D:\Lahulesh_Chourasiya\First_Techical_Question(IMPORTANT)\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csproj.AssemblyReference.cache
+D:\Lahulesh_Chourasiya\First_Techical_Question(IMPORTANT)\Assignment_1\Assignment_1\obj\Debug\Assignment_1.csproj.CoreCompileInputs.cache
+D:\Lahulesh_Chourasiya\First_Techical_Question(IMPORTANT)\Assignment_1\Assignment_1\obj\Debug\Assignment_1.exe
+D:\Lahulesh_Chourasiya\First_Techical_Question(IMPORTANT)\Assignment_1\Assignment_1\obj\Debug\Assignment_1.pdb
